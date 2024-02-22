@@ -102,8 +102,13 @@ installing GTkWave
   
 ![Block Diagram of UART](https://github.com/Dhanya3012/VSD/assets/160576442/c71465aa-faac-47b1-a3a6-7fe450e2b680)
 
-### Waveform
+### Input Waveform
 
-![WhatsApp Image 2024-02-22 at 9 21 34 AM](https://github.com/Dhanya3012/VSD/assets/160576442/3cb68f0a-7504-4449-a745-e634e1b2c240)
+![Input Waveform](https://github.com/Dhanya3012/VSD/assets/160576442/3cb68f0a-7504-4449-a745-e634e1b2c240)
+
+### Output Waveform
+
+![Output Waveform](https://github.com/Dhanya3012/VSD/assets/160576442/7a6a8001-9336-47e8-bc03-26754eb22d7b)
+
 
 </details>

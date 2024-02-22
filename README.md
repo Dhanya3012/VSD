@@ -96,3 +96,7 @@ installing GTkWave
 
 
 </details>
+
+  <summary> TASK 2 </summary>
+  
+![Block Diagram of UART](https://github.com/Dhanya3012/VSD/assets/160576442/c71465aa-faac-47b1-a3a6-7fe450e2b680)

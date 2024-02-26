@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module uart_tx_tb;
+module tb_uart();
 
 // Parameters
 parameter BAUD_RATE = 9600;
@@ -15,7 +15,7 @@ wire tx_done;
 wire tx_out;
 
 // Instantiate UART TX module
-uart_tx uart_tx_inst(
+    uart_tx uut(
     .clk(clk),
     .rst(rst),
     .start_tx(start_tx),

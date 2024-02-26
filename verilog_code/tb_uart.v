@@ -52,8 +52,8 @@ end
 
 // Dump VCD file
 initial begin
-    $dumpfile("uart_tx_tb.vcd");
-    $dumpvars(0, uart_tx_tb);
+    $dumpfile("dumpfile.vcd");
+    $dumpvars;
 end
 
 endmodule

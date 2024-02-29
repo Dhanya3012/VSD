@@ -122,3 +122,18 @@ installing GTkWave
 ![i4](<WhatsApp Image 2024-02-26 at 15.17.39_0ced7cfd.jpg>)
 ![WaveForm](<WhatsApp Image 2024-02-26 at 15.18.20_938e33c5.jpg>)
 
+<details>
+  <summary> TASK 4 </summary>
+   
+![1d](https://github.com/Dhanya3012/VSD/assets/160576442/311e0420-cb8c-49c1-829d-3d7799862aaf)
+![2d](https://github.com/Dhanya3012/VSD/assets/160576442/4b69ee8d-fd2c-4f2f-9d19-9eea54c2f7aa)
+![3d](https://github.com/Dhanya3012/VSD/assets/160576442/96a818b7-deb5-4fdd-b4ef-5bc74641c94e)
+![4d](https://github.com/Dhanya3012/VSD/assets/160576442/eb46e755-f452-44a5-9b93-9fad4498f1ae)
+![5d](https://github.com/Dhanya3012/VSD/assets/160576442/2e19e6f6-f3ca-4c2b-8480-1502da9a41f9)
+![1w](https://github.com/Dhanya3012/VSD/assets/160576442/8769db01-bad3-40c0-aa74-257e60dc4cc2)
+![2w](https://github.com/Dhanya3012/VSD/assets/160576442/1a9c34e6-cd07-4fe2-bed3-41b76f54949c)
+![3w](https://github.com/Dhanya3012/VSD/assets/160576442/42c8a67f-6e82-4f38-8f49-d142c376d7dc)
+![4w](https://github.com/Dhanya3012/VSD/assets/160576442/052177aa-22ed-491e-afab-32d9ed486c10)
+![5w](https://github.com/Dhanya3012/VSD/assets/160576442/31db9307-61f2-4059-8b66-bfb28d13c96f)
+
+</details>

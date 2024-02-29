@@ -123,7 +123,7 @@ installing GTkWave
 ![WaveForm](<WhatsApp Image 2024-02-26 at 15.18.20_938e33c5.jpg>)
 
 <details>
-  <summary> TASK 4 </summary>
+   <summary> TASK 4 </summary>
    
 ![1d](https://github.com/Dhanya3012/VSD/assets/160576442/311e0420-cb8c-49c1-829d-3d7799862aaf)
 ![2d](https://github.com/Dhanya3012/VSD/assets/160576442/4b69ee8d-fd2c-4f2f-9d19-9eea54c2f7aa)

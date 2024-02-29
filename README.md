@@ -121,6 +121,7 @@ installing GTkWave
 ![i3](<WhatsApp Image 2024-02-26 at 15.16.48_65363ecc.jpg>)
 ![i4](<WhatsApp Image 2024-02-26 at 15.17.39_0ced7cfd.jpg>)
 ![WaveForm](<WhatsApp Image 2024-02-26 at 15.18.20_938e33c5.jpg>)
+</details>
 
 <details>
    <summary> TASK 4 </summary>

@@ -140,3 +140,8 @@ installing GTkWave
 ![2](https://github.com/Dhanya3012/VSD/assets/160576442/9234ca1d-0af5-40f1-b37f-1dd76f94839c)
 ![3](https://github.com/Dhanya3012/VSD/assets/160576442/9a395fa8-ee1e-4b89-90a0-38fd9d453c17)
 </details>
+
+<details>
+   <summary> TASK 5 </summary>
+   
+   

@@ -97,7 +97,12 @@ installing GTkWave
 
 </details>
 
+
+
+
 <details>
+
+   ### The Second online meet was held on 20th of Feb 2024 @6PM
   <summary> TASK 2 </summary>
   
 ![Block Diagram of UART](https://github.com/Dhanya3012/VSD/assets/160576442/c71465aa-faac-47b1-a3a6-7fe450e2b680)
@@ -150,9 +155,12 @@ installing GTkWave
 </details>
 
 
-### The Fourth online meet was held on 27th of Feb 2024 @6PM
+
 
 <details>
+   
+   ### The Fourth online meet was held on 27th of Feb 2024 @6PM
+   
    <summary> TASK 4 </summary>
 
   *Cloning the github repositories:*    
@@ -235,8 +243,11 @@ installing GTkWave
 
 
 </details>
-### The Fifth task was given  on  First of March 2024 
+
 <details>
+
+   ### The Fifth task was given  on  First of March 2024 
+   
    <summary> TASK 5 </summary>
 
 

@@ -235,18 +235,74 @@ installing GTkWave
 
 
 </details>
-
+### The Fifth task was given  on  First of March 2024 
 <details>
    <summary> TASK 5 </summary>
+
+
+*Design file after git clone*
+
+*We are checking gtkwave for the design*
+
+```iverilog iiitb_uarttx.v iiitb_uarttx_tb.v```
+
+```./a.out ```
+
+``` gtkwave iiitb_vm.vcd```
+
+
 
    ![l](https://github.com/Dhanya3012/VSD/assets/160576442/8ddc8d92-425c-4bc9-8c4f-8c9f29d8b940)
 ![k](https://github.com/Dhanya3012/VSD/assets/160576442/ab11db7d-c445-426b-84f8-e727d9ac7901)
 
 
+*Invoking yosys inside iiitb_vm file:* 
+
+```yosys```
+
+*Reading the Library:*    
+
+```read_liberty -lib lib/sky130_fd_sc_hd__tt_025C_1v80.lib```
+
+*Reading the Design:*    
+
+```read_verilog iiitb_uarttx.v```
+
+
+*Specifying the module that we are synthesizing:*    
+
+```synth -top UART_TX```
+
    
 ![a](https://github.com/Dhanya3012/VSD/assets/160576442/6c6ff16d-16ae-4fb1-b8a6-2b87f5e9becb)
+
+
+
 ![b](https://github.com/Dhanya3012/VSD/assets/160576442/0bd4e4ce-dfd4-482c-a15f-ac2955fc91b0)
+
+*To generate the netlist:*    
+
+```abc -liberty lib/sky130_fd_sc_hd__tt_025C_1v80.lib```
+
+
 ![c](https://github.com/Dhanya3012/VSD/assets/160576442/890fd9cb-aea8-4533-8414-cebb6a9a4de7)
+
+*To write the netlist:*    
+
+*Using the switch '-noattr' to get the simplified version of netlist file:*  
+
+```write_verilog -noattr netlist.v```
+
+*To see the graphical version of the logic:*    
+
+```show```
+
+*To open the netlist:*    
+
+```!gvim netlist.v```
+
+
+
 ![d](https://github.com/Dhanya3012/VSD/assets/160576442/098f145c-0f16-4cad-b477-9d24dd9ff703)
 ![e](https://github.com/Dhanya3012/VSD/assets/160576442/7eb1c7ee-8a34-4977-a287-11520af9a4ec)
 ![f](https://github.com/Dhanya3012/VSD/assets/160576442/5d410eb3-cf8e-417d-a809-058475637749)
@@ -254,7 +310,19 @@ installing GTkWave
 ![h](https://github.com/Dhanya3012/VSD/assets/160576442/2d1435b3-48fe-4cda-a8e1-f642b9379928)
 ![i](https://github.com/Dhanya3012/VSD/assets/160576442/3733d65a-3504-4dfc-9f50-dac4fac66318)
 ![j](https://github.com/Dhanya3012/VSD/assets/160576442/9644a0eb-7050-48f5-9fc8-a9d1b8f63875)
+
+*To check whether the netlist will match with the Design:*
+
+ ```iverilog primitives.v sky130_fd_sc_hd.v netlist.v iiitb_uarttx_tb.v``` 
+
+```./a.out``` 
+
+ ```gtkwave dump.vcd```
+
 ![n](https://github.com/Dhanya3012/VSD/assets/160576442/8c2af5f5-974b-44cd-ace1-1b20651a4267)
+
+*GTKWAVE of netlist*
+
 ![m](https://github.com/Dhanya3012/VSD/assets/160576442/8072b455-fde4-4cdc-ae01-e39590a7c077)
 
 </details>

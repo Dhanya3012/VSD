@@ -218,9 +218,22 @@ installing GTkWave
 ![3w](https://github.com/Dhanya3012/VSD/assets/160576442/42c8a67f-6e82-4f38-8f49-d142c376d7dc)
 ![4w](https://github.com/Dhanya3012/VSD/assets/160576442/052177aa-22ed-491e-afab-32d9ed486c10)
 ![5w](https://github.com/Dhanya3012/VSD/assets/160576442/31db9307-61f2-4059-8b66-bfb28d13c96f)
-![1](https://github.com/Dhanya3012/VSD/assets/160576442/861fe59e-b1d8-425f-ad9f-39ef48d391bc)
-![2](https://github.com/Dhanya3012/VSD/assets/160576442/9234ca1d-0af5-40f1-b37f-1dd76f94839c)
-![3](https://github.com/Dhanya3012/VSD/assets/160576442/9a395fa8-ee1e-4b89-90a0-38fd9d453c17)
+
+*To check whether the netlist will match with the Design:*
+
+ ```iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_sc_hd.v uart_netlist.v tb_uart.v``` 
+
+```./a.out``` 
+
+ ```gtkwave dumpfile.vcd```
+ 
+ ![v1](https://github.com/Dhanya3012/VSD/assets/160576442/1e0c3c51-ddb0-49ef-b3ca-e7c47a149c91)
+
+ *GTKWAVE of netlist*
+ 
+![v2](https://github.com/Dhanya3012/VSD/assets/160576442/fb5cd40a-b964-4955-9ac1-9f38c20274c6)
+
+
 </details>
 
 <details>

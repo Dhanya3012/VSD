@@ -149,11 +149,46 @@ installing GTkWave
 ![WaveForm](<WhatsApp Image 2024-02-26 at 15.18.20_938e33c5.jpg>)
 </details>
 
+
+### The Fourth online meet was held on 27th of Feb 2024 @6PM
+
 <details>
    <summary> TASK 4 </summary>
+
+  *Cloning the github repositories:*    
+  
+```git clone https://github.com/Dhanya3012/VSD.git``` 
+
+*Invoking yosys inside verilog_code file:* 
+
+```yosys```
+
+*Reading the Library:*    
+
+```read_liberty -lib /home/dhanya/VSD/lib/sky130_fd_sc_hd__tt_025C_1v80.lib```
+
+*Reading the Design:*    
+
+```read_verilog uart.v```
+
+*Specifying the module that we are synthesizing:*    
+
+```synth -top uart```
+
+
    
 ![1d](https://github.com/Dhanya3012/VSD/assets/160576442/311e0420-cb8c-49c1-829d-3d7799862aaf)
+
+*To generate the netlist:*    
+
+```abc -liberty /home/dhanya/VSD/lib/sky130_fd_sc_hd__tt_025C_1v80.lib```
+
 ![2d](https://github.com/Dhanya3012/VSD/assets/160576442/4b69ee8d-fd2c-4f2f-9d19-9eea54c2f7aa)
+
+*To see the graphical version of the logic:*    
+
+```show```
+
 ![3d](https://github.com/Dhanya3012/VSD/assets/160576442/96a818b7-deb5-4fdd-b4ef-5bc74641c94e)
 ![4d](https://github.com/Dhanya3012/VSD/assets/160576442/eb46e755-f452-44a5-9b93-9fad4498f1ae)
 ![5d](https://github.com/Dhanya3012/VSD/assets/160576442/2e19e6f6-f3ca-4c2b-8480-1502da9a41f9)

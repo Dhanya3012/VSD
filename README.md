@@ -189,8 +189,29 @@ installing GTkWave
 
 ```show```
 
+*To write the netlist:*    
+
+```write_verilog uart_netlist.v```
+
+*Using the switch '-noattr' to get the simplified version of netlist file:*    
+
+```write_verilog -noattr uart_netlist.v```
+
+
+*To open the netlist:*    
+
+```!gvim uart_netlist.v```
+
+*To check whether the netlist will match with the Design:*
+
+ ```iverilog uart_netlist.v tb_uart.v``` 
+ 
+
 ![3d](https://github.com/Dhanya3012/VSD/assets/160576442/96a818b7-deb5-4fdd-b4ef-5bc74641c94e)
 ![4d](https://github.com/Dhanya3012/VSD/assets/160576442/eb46e755-f452-44a5-9b93-9fad4498f1ae)
+
+
+
 ![5d](https://github.com/Dhanya3012/VSD/assets/160576442/2e19e6f6-f3ca-4c2b-8480-1502da9a41f9)
 ![1w](https://github.com/Dhanya3012/VSD/assets/160576442/8769db01-bad3-40c0-aa74-257e60dc4cc2)
 ![2w](https://github.com/Dhanya3012/VSD/assets/160576442/1a9c34e6-cd07-4fe2-bed3-41b76f54949c)

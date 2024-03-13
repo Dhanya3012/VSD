@@ -113,13 +113,39 @@ installing GTkWave
 
 </details>
 <details>
+
+   ### The Third online meet was held on 22th of Feb 2024 @6PM
+   
   <summary> TASK 3 </summary>
+
+  *Cloning my github repositories:*    
+  
+```git clone https://github.com/Dhanya3012/VSD.git```
 
 ![i1](<WhatsApp Image 2024-02-26 at 15.14.58_491a6b56.jpg>)
 
+```cd VSD```
+
+```cd verilog_code```
+
+```iverilog uart.v tb_uart.v```
+
 ![i2](<WhatsApp Image 2024-02-26 at 15.16.03_a8686182.jpg>)
+
 ![i3](<WhatsApp Image 2024-02-26 at 15.16.48_65363ecc.jpg>)
+
+*Generating dump_file*
+
+```./a.out```
+
+*To get I/O waveform*
+
+```gtkwave dumpfile.vcd```
+
 ![i4](<WhatsApp Image 2024-02-26 at 15.17.39_0ced7cfd.jpg>)
+
+### Wave Forms:
+
 ![WaveForm](<WhatsApp Image 2024-02-26 at 15.18.20_938e33c5.jpg>)
 </details>
 

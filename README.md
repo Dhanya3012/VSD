@@ -238,6 +238,11 @@ installing GTkWave
 
 <details>
    <summary> TASK 5 </summary>
+
+   ![l](https://github.com/Dhanya3012/VSD/assets/160576442/8ddc8d92-425c-4bc9-8c4f-8c9f29d8b940)
+![k](https://github.com/Dhanya3012/VSD/assets/160576442/ab11db7d-c445-426b-84f8-e727d9ac7901)
+
+
    
 ![a](https://github.com/Dhanya3012/VSD/assets/160576442/6c6ff16d-16ae-4fb1-b8a6-2b87f5e9becb)
 ![b](https://github.com/Dhanya3012/VSD/assets/160576442/0bd4e4ce-dfd4-482c-a15f-ac2955fc91b0)
@@ -249,8 +254,7 @@ installing GTkWave
 ![h](https://github.com/Dhanya3012/VSD/assets/160576442/2d1435b3-48fe-4cda-a8e1-f642b9379928)
 ![i](https://github.com/Dhanya3012/VSD/assets/160576442/3733d65a-3504-4dfc-9f50-dac4fac66318)
 ![j](https://github.com/Dhanya3012/VSD/assets/160576442/9644a0eb-7050-48f5-9fc8-a9d1b8f63875)
-![k](https://github.com/Dhanya3012/VSD/assets/160576442/ab11db7d-c445-426b-84f8-e727d9ac7901)
-![l](https://github.com/Dhanya3012/VSD/assets/160576442/8ddc8d92-425c-4bc9-8c4f-8c9f29d8b940)
-![m](https://github.com/Dhanya3012/VSD/assets/160576442/8072b455-fde4-4cdc-ae01-e39590a7c077)
 ![n](https://github.com/Dhanya3012/VSD/assets/160576442/8c2af5f5-974b-44cd-ace1-1b20651a4267)
+![m](https://github.com/Dhanya3012/VSD/assets/160576442/8072b455-fde4-4cdc-ae01-e39590a7c077)
+
 </details>
